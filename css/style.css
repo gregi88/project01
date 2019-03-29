@@ -32,7 +32,7 @@ h1 {
     float: left;
     border-radius: 10px;
     background: #8CCE4C;
-
+    border: 3px solid black;
     cursor: pointer;
 
     font: 14px/40px Tahoma, Arial, sans-serif;
